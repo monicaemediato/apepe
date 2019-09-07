@@ -1,0 +1,30 @@
+.container
+{
+        opacity:0.5;
+}
+.container:hover
+{
+        opacity:1;
+}
+
+header {
+	background-color: #FFE4E1; 
+}
+
+
+body {
+	background-color: #FFE4E1; 
+   	font-family: "Courier", monospace;
+        width: 30em;
+	text-align: center;
+	margin: 0 auto;
+}
+
+h1.logo {
+    margin-left: auto;
+    margin-right: auto;
+    width: 12em;
+    background-color: #EECBAD; 
+    font-family: "Courier", monospace;
+
+}
